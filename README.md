@@ -54,4 +54,4 @@ Le code source principal se trouve dans :
 
 📧 CONTACT
 
-Créé par Maxime Luhat et Leo Grognet - 📩 luhatmaxime@gmail.com,📩
+Créé par Maxime Luhat , Maëlyne Castelnot , Lea Pavel et Quentin Lopes - 📩 luhatmaxime@gmail.com,📩castelmaelyne@gmail.com ,📩 leapavel602@gmail.com, 📩quentin.lopes@orange.fr
