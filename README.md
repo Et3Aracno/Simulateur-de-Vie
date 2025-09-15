@@ -52,12 +52,19 @@ Le code source principal se trouve dans :
 
 ---
 <img width="611" height="814" alt="Capture d'écran 2025-09-15 152934" src="https://github.com/user-attachments/assets/7ec55fa5-7ff2-41bd-a393-77f882bf45bf" />
+
 <img width="406" height="52" alt="Capture d'écran 2025-09-15 152951" src="https://github.com/user-attachments/assets/509f3039-c8be-491c-824d-deeffbf16813" />
+
 <img width="161" height="118" alt="Capture d'écran 2025-09-15 153006" src="https://github.com/user-attachments/assets/55ddbeaa-5eb4-4831-a6d7-d55903250b96" />
+
 <img width="666" height="169" alt="Capture d'écran 2025-09-15 153504" src="https://github.com/user-attachments/assets/36c4a112-c44c-4c32-836a-ed2628e56c9c" />
+
 <img width="585" height="207" alt="Capture d'écran 2025-09-15 153725" src="https://github.com/user-attachments/assets/5f628b9a-2139-4d28-887e-3bcb2ebf6889" />
+
 <img width="1101" height="135" alt="Capture d'écran 2025-09-15 154238" src="https://github.com/user-attachments/assets/50cdb5be-2abc-4c75-ac8a-dc18afabb82c" />
+
 <img width="452" height="140" alt="Capture d'écran 2025-09-15 153731" src="https://github.com/user-attachments/assets/29aa26e1-ca36-49ec-a82b-43086c581a70" />
+
 <img width="440" height="82" alt="Capture d'écran 2025-09-15 153747" src="https://github.com/user-attachments/assets/3fb72afa-916c-459a-bc70-4a4847231512" />
 
 
