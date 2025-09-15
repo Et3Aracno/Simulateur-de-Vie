@@ -47,7 +47,7 @@ Durant la simulation, vous pouvez :
 
 📂 CODE
 
-Le code source principal se trouve dans :  
+Le code source principal se trouve dans la branche master :  
 **`Code projet simulation fini.cpp`**
 
 ---
